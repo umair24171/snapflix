@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1033870852178",
+    "project_id": "snapflix-255d8",
+    "storage_bucket": "snapflix-255d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033870852178:android:c677da197276be30329f8b",
+        "android_client_info": {
+          "package_name": "com.app.snapflix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1033870852178-00jg2pfro78p5u7uhgp1ldjhv3fua3ca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAriU5xtDFzCO-obwnX6EPHUdrEeX3o6w8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1033870852178-00jg2pfro78p5u7uhgp1ldjhv3fua3ca.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1033870852178-a12mtjma0jq6r6mvqlj1ati8vutmglst.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firstCityProject"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1033870852178-qnc35674sk4qli40fdjspkeco4bmt2c7.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1033870852178-qnc35674sk4qli40fdjspkeco4bmt2c7</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1033870852178-r1pu7k2r13bke5gkg49ke015ntc0g27t.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBAFCeZl3Fgw-t_SHE5JRguy808ZpuA6L4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1033870852178</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.app.snapflix</string>
+	<key>PROJECT_ID</key>
+	<string>snapflix-255d8</string>
+	<key>STORAGE_BUCKET</key>
+	<string>snapflix-255d8.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1033870852178:ios:c9f87f01a170c7bb329f8b</string>
+</dict>
+</plist>
